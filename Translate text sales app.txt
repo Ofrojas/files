@@ -17,8 +17,8 @@ ID|Language|Text
 956|Español|Formato de moneda
 957|English|This options allows you to format the currency format as his symbol, decimals quantity and, if you like, can apply a shorter format
 957|Español|Estas opciones te permiten modificar el formato de monedas de este reporte, tal como su simbolo, cantidad de decimales o recortar las cifras
-958|English|Actual currency format sample
-958|Español|Muestra del formato de moneda aplicado
+958|English|Sample
+958|Español|Muestra
 959|English|In this section you can edit some report options that only impacts to you, your settings changes doesn't affect other users
 959|Español|Edita algunas opciones de este reporte. Estas configuraciones solo afectan tu sesión, los cambios que hagas no tendran ningún impacto en otros usuarios
 960|English|Do you need help?
