@@ -1,6 +1,22 @@
 ID|Language|Text
 900|English|Last sales reported at
 900|Spanish|Última venta reportada el
+950|English|Filters & settings
+950|Spanish|Filtros y configuraciones
+951|English|Hide filter & settings
+951|Spanish|Ocultar filtros y configuraciones
+952|English|Filters
+952|Spanish|Filtros
+960|English|Do you need help?
+960|Spanish|¿Necesitas ayuda?
+961|English|Download documentation
+961|Spanish|Descargar documentación
+962|English|Download templates
+952|Spanish|Descargar plantillas
+953|English|Submit a support ticket
+953|Spanish|Contactar con soporte
+954|English|Anytime, feel you free to contact us to develop your ideas.
+954|Spanish|En cualquier momento, contactanos para que desarrollemos tus ideas.
 101|English|Summary
 101|Spanish|General
 102|English|Go to summary view
