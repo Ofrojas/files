@@ -19,6 +19,8 @@ ID|Language|Text
 957|Español|Estas opciones te permiten modificar el formato de monedas de este reporte, tal como su simbolo, cantidad de decimales o recortar las cifras
 958|English|Actual currency format sample
 958|Español|Muestra del formato de moneda aplicado
+959|English|In this section you can edit some report options that only impacts to you, your settings changes doesn't affect other users
+959|Español|Edita algunas opciones de este reporte. Estas configuraciones solo afectan tu sesión, los cambios que hagas no tendran ningún impacto en otros usuarios
 960|English|Do you need help?
 960|Español|¿Necesitas ayuda?
 961|English|Download documentation
@@ -29,6 +31,10 @@ ID|Language|Text
 963|Español|Contactar con soporte
 964|English|Anytime, feel you free to contact us to develop your ideas.
 964|Español|En cualquier momento, contactanos para que desarrollemos tus ideas.
+980|English|Filters
+980|Español|Filtros
+981|English|Apply filters to this report data. Any applied filter has an impact in every report section
+981|Español|Aplica filtros a los datos de este reporte. Estos filtros son globales, por lo que su interacción impacta cada sección de este reporte
 101|English|Summary
 101|Español|General
 102|English|Go to summary view
