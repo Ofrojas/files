@@ -7,6 +7,8 @@ ID|Language|Text
 951|Spanish|Ocultar filtros y configuraciones
 952|English|Filters
 952|Spanish|Filtros
+953|English|Settings
+953|Spanish|Configuraciones
 960|English|Do you need help?
 960|Spanish|¿Necesitas ayuda?
 961|English|Download documentation
