@@ -18,6 +18,6 @@ ID|Language|Text
 402|English|Go to customers analysis
 402|Spanish|Ver análisis de clientes
 501|English|Invoices
-502|Spanish|Facturas
+501|Spanish|Facturas
 502|English|Go to invoices analysis
 502|Spanish|Ver análisis de facturas
