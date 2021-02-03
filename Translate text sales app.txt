@@ -9,6 +9,16 @@ ID|Language|Text
 952|Español|Filtros
 953|English|Settings
 953|Español|Configuraciones
+954|English|Language
+954|Español|Idioma
+955|English|Change the report language anytime, only for you
+955|Español|Cambia el idioma del reporte, solo para ti
+956|English|Currency format
+956|Español|Formato de moneda
+957|English|This options allows you to format the currency format as his symbol, decimals quantity and, if you like, can apply a shorter format
+957|Español|Estas opciones te permiten modificar el formato de monedas de este reporte, tal como su simbolo, cantidad de decimales o recortar las cifras
+958|English|Actual currency format sample
+958|Español|Muestra del formato de moneda aplicado
 960|English|Do you need help?
 960|Español|¿Necesitas ayuda?
 961|English|Download documentation
