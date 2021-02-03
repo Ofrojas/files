@@ -12,11 +12,11 @@ ID|Language|Text
 961|English|Download documentation
 961|Spanish|Descargar documentación
 962|English|Download templates
-952|Spanish|Descargar plantillas
-953|English|Submit a support ticket
-953|Spanish|Contactar con soporte
-954|English|Anytime, feel you free to contact us to develop your ideas.
-954|Spanish|En cualquier momento, contactanos para que desarrollemos tus ideas.
+962|Spanish|Descargar plantillas
+963|English|Submit a support ticket
+963|Spanish|Contactar con soporte
+964|English|Anytime, feel you free to contact us to develop your ideas.
+964|Spanish|En cualquier momento, contactanos para que desarrollemos tus ideas.
 101|English|Summary
 101|Spanish|General
 102|English|Go to summary view
