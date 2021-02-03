@@ -1,6 +1,12 @@
-ID	English	Spanish	Portuguese	French	German
-101	Summary	General	Geral	Général	Allgemeines
-201	Sales	Ventas	Vendas	Ventes	Der Umsatz
-301	Products	Productos	Produtos	Des produits	Produkte
-401	Customers	Clientes	Clientes	Les clients	Kunden
+ID	English	Spanish
+900 Last sales reported at  Última venta reportada el
+101	Summary	General
+102 Go to summary view  Ver resumen general
+201	Sales	Ventas
+202 Go to sales analysis  Ver análisis de ventas
+301	Products	Productos
+302 Go to products analysis  Ver análisis de productos
+401	Customers	Clientes
+402 Go to customers analysis  Ver análisis de clientes
 501	Invoices	Facturas	Faturas	Les factures	Rechnungen
+502 Go to invoices analysis  Ver análisis de facturas
