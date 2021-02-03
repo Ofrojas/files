@@ -1,5 +1,5 @@
 ID	English	Spanish	Portuguese	French	German
-101	General	General	Geral	Général	Allgemeines
+101	Summary	General	Geral	Général	Allgemeines
 201	Sales	Ventas	Vendas	Ventes	Der Umsatz
 301	Products	Productos	Produtos	Des produits	Produkte
 401	Customers	Clientes	Clientes	Les clients	Kunden
