@@ -1,41 +1,41 @@
 ID|Language|Text
 900|English|Last sales reported at
-900|Spanish|Última venta reportada el
+900|Español|Última venta reportada el
 950|English|Filters & settings
-950|Spanish|Filtros y configuraciones
+950|Español|Filtros y configuraciones
 951|English|Hide filter & settings
-951|Spanish|Ocultar filtros y configuraciones
+951|Español|Ocultar filtros y configuraciones
 952|English|Filters
-952|Spanish|Filtros
+952|Español|Filtros
 953|English|Settings
-953|Spanish|Configuraciones
+953|Español|Configuraciones
 960|English|Do you need help?
-960|Spanish|¿Necesitas ayuda?
+960|Español|¿Necesitas ayuda?
 961|English|Download documentation
-961|Spanish|Descargar documentación
+961|Español|Descargar documentación
 962|English|Download templates
-962|Spanish|Descargar plantillas
+962|Español|Descargar plantillas
 963|English|Submit a support ticket
-963|Spanish|Contactar con soporte
+963|Español|Contactar con soporte
 964|English|Anytime, feel you free to contact us to develop your ideas.
-964|Spanish|En cualquier momento, contactanos para que desarrollemos tus ideas.
+964|Español|En cualquier momento, contactanos para que desarrollemos tus ideas.
 101|English|Summary
-101|Spanish|General
+101|Español|General
 102|English|Go to summary view
-102|Spanish|Ver resumen general
+102|Español|Ver resumen general
 201|English|Sales
-201|Spanish|Ventas
+201|Español|Ventas
 202|English|Go to sales analysis
-202|Spanish|Ver análisis de ventas
+202|Español|Ver análisis de ventas
 301|English|Products
-301|Spanish|Productos
+301|Español|Productos
 302|English|Go to products analysis
-302|Spanish|Ver análisis de productos
+302|Español|Ver análisis de productos
 401|English|Customers
-401|Spanish|Clientes
+401|Español|Clientes
 402|English|Go to customers analysis
-402|Spanish|Ver análisis de clientes
+402|Español|Ver análisis de clientes
 501|English|Invoices
-501|Spanish|Facturas
+501|Español|Facturas
 502|English|Go to invoices analysis
-502|Spanish|Ver análisis de facturas
+502|Español|Ver análisis de facturas
