@@ -1,12 +1,23 @@
-ID	English	Spanish
-900 Last sales reported at  Última venta reportada el
-101	Summary	General
-102 Go to summary view  Ver resumen general
-201	Sales	Ventas
-202 Go to sales analysis  Ver análisis de ventas
-301	Products	Productos
-302 Go to products analysis  Ver análisis de productos
-401	Customers	Clientes
-402 Go to customers analysis  Ver análisis de clientes
-501	Invoices	Facturas	Faturas	Les factures	Rechnungen
-502 Go to invoices analysis  Ver análisis de facturas
+ID	Language  Text
+900 English Last sales reported at
+900 Spanish Última venta reportada el
+101 English	Summary
+101 Spanish General
+102 English Go to summary view
+102 Spanish Ver resumen general
+201	English Sales
+201 Spanish Ventas
+202 English Go to sales analysis
+202 Spanish Ver análisis de ventas
+301	English Products
+301 Spanish Productos
+302 English Go to products analysis
+302 Spanish Ver análisis de productos
+401	English Customers
+401 Spanish Clientes
+402 English Go to customers analysis
+402 Spanish Ver análisis de clientes
+501	English Invoices
+502 Spanish Facturas
+502 English Go to invoices analysis
+502 Spanish Ver análisis de facturas
