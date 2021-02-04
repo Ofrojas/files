@@ -37,6 +37,8 @@ ID|Language|Text
 966|Español|Versión
 967|English|Click here to close the help box
 967|Español|Clic para cerrar el menú de ayuda
+968|English|Version updates log
+968|Español|Actualizaciones por versión
 980|English|Filters
 980|Español|Filtros
 981|English|Apply filters to this report data. Any applied filter has an impact in every report section
