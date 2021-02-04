@@ -30,7 +30,13 @@ ID|Language|Text
 963|English|Submit a support ticket
 963|Español|Contactar con soporte
 964|English|Anytime, feel you free to contact us to develop your ideas.
-964|Español|En cualquier momento, contactanos para que desarrollemos tus ideas.
+964|Español|Contactanos y ayudamos a desarrollar tus ideas.
+965|English|About this version
+965|Español|Información de esta versión
+966|English|Version
+966|Español|Versión
+967|English|Click here to close the help box
+967|Español|Clic para cerrar el menú de ayuda
 980|English|Filters
 980|Español|Filtros
 981|English|Apply filters to this report data. Any applied filter has an impact in every report section
