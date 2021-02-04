@@ -1,4 +1,6 @@
 ID|Language|Text
+700|English|You are here!
+700|Español|Ubicación actual
 900|English|Last sales reported at
 900|Español|Última venta reportada el
 950|English|Filters & settings
@@ -47,6 +49,40 @@ ID|Language|Text
 101|Español|General
 102|English|Go to summary view
 102|Español|Ver resumen general
+103|English|S A L E S
+103|Español|V E N T A S
+1031|English|Total sales this month
+1031|Español|Ventas totales, mes actual
+1032|English|Units solds this month
+1032|Español|Unidades vendidas, mes actual
+1033|English|Invoices generated this month
+1033|Español|Facturas generadas, mes actual
+1034|English|vs sales goal
+1034|Español|vs presupuesto
+1035|English|vs previous month
+1035|Español|vs mes anterior
+1036|English|vs same month previous year
+1036|Español|vs mismo mes año anterior
+1037|English|Net profit
+1037|Español|Utilidad neta
+1038|English|Profit margin
+1038|Español|Margen de utilidad
+1039|English|Average amount by invoice
+1039|Español|Valor promedio por factura
+1040|English|Monthly sales vs goals, latest
+1040|Español|Ventas vs presupuesto, últimos
+1041|English|months
+1041|Español|meses
+1042|English|Goal
+1042|Español|Presupuesto
+104|English|P R O D U C T S
+104|Español|P R O D U C T O S
+105|English|C U S T O M E R S
+105|Español|C L I E N T E S
+106|English|I N V O I C E S
+106|Español|F A C T U R A S
+107|English|Summary
+107|Español|Resumen
 201|English|Sales
 201|Español|Ventas
 202|English|Go to sales analysis
