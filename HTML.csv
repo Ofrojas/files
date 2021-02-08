@@ -1,6 +1,6 @@
 Group|HTML beggining|HTML ending
 100|<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Document</title>    <style>        body{            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;            color: #283845;        }        img{            height: 60px;            width: auto;            max-width: 240px;        }        .row{            display: flex;            flex-direction: row;        }        .column{            display:inline-block;            flex-direction:column;        }        .pr-25{            padding-right: 30px;        }        .subtitle{            margin: 0;            font-size: 16px;        }        .fw-700{            font-weight: 700;        }        .fw-400{            font-weight: 400;        }        .fw-500{            font-weight: 500;        }    </style></head><body>    <div class="row container">|</div></body></html>
-101|<div class="column pr-25">    <img src="|" alt="Trial Data Company logo" srcset=""></div>
+101|<div class="column pr-25">    <img src="|"" alt="Trial Data Company logo" srcset=""></div>
 102|<div class="column">    <span style="font-size: 28px;">|</span></div>
 103|<span class="fw-700">|</span>
 104|<p class="subtitle fw-400">|</p>
