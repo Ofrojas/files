@@ -1,6 +1,8 @@
 ID|Language|Text
 700|English|You are here!
 700|Español|Ubicación actual
+701|English|All values are showing in
+701|Español|Cifras mostradas en
 900|English|Latest sales reported at 
 900|Español|Última venta reportada el
 950|English|Filters & settings
