@@ -63,8 +63,8 @@ ID|Language|Text
 1034|Español|vs presupuesto
 1035|English|vs previous month
 1035|Español|vs mes anterior
-1036|English|vs same month previous year
-1036|Español|vs mismo mes año anterior
+1036|English|vs month previous year
+1036|Español|vs mes año anterior
 1037|English|Net profit
 1037|Español|Utilidad neta
 1038|English|Profit margin
