@@ -77,14 +77,14 @@ ID|Language|Text
 1041|Español|meses
 1042|English|Goal
 1042|Español|Presupuesto
-1043|English|Sales latest
-1043|Español|Ventas, últimos
+1043|English|Sales vs target, latest
+1043|Español|Ventas vs presupuesto, últimos
 1044|English|months
 1044|Español|Meses
 1045|English|Sales
 1045|Español|Ventas
 1046|English|Target
-1046|Español|Meta
+1046|Español|Presupuesto
 104|English|P R O D U C T S
 104|Español|P R O D U C T O S
 105|English|C U S T O M E R S
