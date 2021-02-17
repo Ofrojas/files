@@ -71,16 +71,14 @@ ID|Language|Text
 1038|Español|Margen de utilidad
 1039|English|Average amount by invoice
 1039|Español|Valor promedio por factura
-1040|English|Monthly sales vs goals, latest
-1040|Español|Ventas vs presupuesto, últimos
+1040|English|Monthly sales vs goals
+1040|Español|Ventas vs presupuesto
 1041|English|months
 1041|Español|meses
 1042|English|Goal
 1042|Español|Presupuesto
-1043|English|Sales vs target, latest
-1043|Español|Ventas vs presupuesto, últimos
-1044|English|months
-1044|Español|Meses
+1043|English|, latest
+1043|Español|, últimos
 1045|English|Sales
 1045|Español|Ventas
 1046|English|Target
