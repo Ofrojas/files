@@ -77,8 +77,8 @@ ID|Language|Text
 1041|Español|meses
 1042|English|Goal
 1042|Español|Presupuesto
-1043|English|, latest
-1043|Español|, últimos
+1043|English|latest
+1043|Español|últimos
 1045|English|Sales
 1045|Español|Ventas
 1046|English|Target
