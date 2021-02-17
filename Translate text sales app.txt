@@ -81,8 +81,10 @@ ID|Language|Text
 1043|Español|últimos
 1045|English|Sales
 1045|Español|Ventas
-1046|English|Target
-1046|Español|Presupuesto
+1046|English|Latest day
+1046|Español|Último día
+1047|English|Month
+1047|Español|Mes
 104|English|P R O D U C T S
 104|Español|P R O D U C T O S
 105|English|C U S T O M E R S
