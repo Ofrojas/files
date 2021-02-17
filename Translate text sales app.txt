@@ -83,8 +83,8 @@ ID|Language|Text
 1045|Español|Ventas
 1046|English|Latest day
 1046|Español|Último día
-1047|English|Month
-1047|Español|Mes
+1047|English|Last month
+1047|Español|Último mes
 104|English|P R O D U C T S
 104|Español|P R O D U C T O S
 105|English|C U S T O M E R S
