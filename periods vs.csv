@@ -1,0 +1,13 @@
+OptionID|Languaje|Option
+2|English|Last month vs prev month
+2|Español|Mes actual vs mes anterior
+3|English|Last month vs same month prev year
+3|Español|Mes actual vs mismo mes año anterior
+4|English|Last quarter vs prev quarter
+4|Español|Trimestre actual vs trimestre anterior
+5|English|Last quarter vs same period prev year
+5|Español|Trimestre actual vs mismo trimestre año anterior
+6|English|Last year vs prev year
+6|Español|Año actual vs año anterior
+1|English|Last day vs same weekday prev year
+1|Español|Último día vs mismo día de la semana año anterior
