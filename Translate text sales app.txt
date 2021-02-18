@@ -85,14 +85,12 @@ ID|Language|Text
 1046|Español|Último día
 1047|English|Last month
 1047|Español|Último mes
-1048|English|Latest month
-1048|Español|Último mes
-1049|English|Latest quarter
-1049|Español|Último trimestre
-1050|English|Latest semester
-1050|Español|Último semestre
-1051|English|Latest year
-1051|Español|Último año
+1048|English|Latest quarter
+1048|Español|Último trimestre
+1049|English|Latest semester
+1049|Español|Último semestre
+1050|English|Latest year
+1050|Español|Último año
 104|English|P R O D U C T S
 104|Español|P R O D U C T O S
 105|English|C U S T O M E R S
