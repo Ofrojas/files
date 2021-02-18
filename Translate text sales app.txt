@@ -97,6 +97,14 @@ ID|Language|Text
 201|Español|Ventas
 202|English|Go to sales analysis
 202|Español|Ver análisis de ventas
+2001|English|The latest daym you sold
+2001|Español|Las ventas del último día fueron de
+2002|English|Compared with the same weekday in previous year, when your sales was
+2002|Español|Comparado con el mismo día de la semana del año anterior, donde se reportaron ventas por
+2003|English|you increase a
+2003|Español|creciste un
+2004|English|you decrease a
+2004|Español|decreciste un
 301|English|Products
 301|Español|Productos
 302|English|Go to products analysis
